@@ -44,6 +44,17 @@ body{
 .mybtn:hover{
     background-color: seagreen;
 }
+.about-section{
+    text-align: center;
+}
+.about{
+    width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
 
 .about h2{
     font-size: 35px;
